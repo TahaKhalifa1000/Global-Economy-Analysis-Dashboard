@@ -97,8 +97,3 @@ Excel (Data exploration & calculated fields).
 
 Power BI (Dashboard & visualizations).
 
-
-
----
-
-تحب أكتبلك نسخة مختصرة بالعربي تبقى معاه في README كمان، ولا تخليها بالإنجليزي بس؟
